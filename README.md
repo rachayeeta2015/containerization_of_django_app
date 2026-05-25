@@ -1,2 +1,2 @@
 # containerization_of_django_app
-Applying the basics of docker and kubernretes to build a basic python app , and contenarize it .
+This is abasic django app , that I have built to revise my skills on containerizing an application using docker and then publishing it via kubernetes and docker compose. 
